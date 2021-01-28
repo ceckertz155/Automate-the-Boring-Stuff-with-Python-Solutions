@@ -1,10 +1,10 @@
-This is my notebook for the book [*Automate_the_Boring_Stuff_with_Python*](https://automatetheboringstuff.com/#toc). You could access this book for free. Thanks for the author Al Sweigart, we could have this wonderful learning metirials for python beginners.
+This is my notebook for the book [*Automate_the_Boring_Stuff_with_Python*](https://automatetheboringstuff.com/#toc). You could access this book for free. Thanks for the author Al Sweigart, we could have this wonderful learning materials for python beginners.
 
-Because the book didn't give solutions for the **Practice Projects**, so I add my solutions for other learners.
+Because the book didn't give solutions for the **Practice Projects**,I added my solutions for other learners.
 
 I hope this could help those people who study this book.
 
-I haven't finish all practice projects. If you finish it, welcome to pull a request to add your solution.
+I haven't finished all practice projects. If you finish it, you're welcome to pull a request to add your solution.
 
 Environment:`Python 3`
 
